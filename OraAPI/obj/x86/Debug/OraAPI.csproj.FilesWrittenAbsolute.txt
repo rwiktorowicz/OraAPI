@@ -1,0 +1,5 @@
+/Users/Richard/Desktop/Files/programming/projects/OraAPI/OraAPI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Richard/Desktop/Files/programming/projects/OraAPI/OraAPI/bin/Debug/OraAPI.exe.mdb
+/Users/Richard/Desktop/Files/programming/projects/OraAPI/OraAPI/bin/Debug/OraAPI.exe
+/Users/Richard/Desktop/Files/programming/projects/OraAPI/OraAPI/obj/x86/Debug/OraAPI.exe
+/Users/Richard/Desktop/Files/programming/projects/OraAPI/OraAPI/obj/x86/Debug/OraAPI.exe.mdb
