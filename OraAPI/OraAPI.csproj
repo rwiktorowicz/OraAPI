@@ -53,6 +53,8 @@
     <Compile Include="GlobalInfo.cs" />
     <Compile Include="Refrences\Users.cs" />
     <Compile Include="Refrences\CurrentUser.cs" />
+    <Compile Include="Refrences\Chats.cs" />
+    <Compile Include="Refrences\ChatReference.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

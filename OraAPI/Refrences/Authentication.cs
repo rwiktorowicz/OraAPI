@@ -27,5 +27,7 @@ namespace OraAPI
 	}
 
 		public void Logoff() {
-			//log off
+			GlobalInfo.LoggedInUserId = 0;
+			GlobalInfo.LoggedInUserName = string.Empty;
+			GlobalInfo.LoggedIn = false;
 }
